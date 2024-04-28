@@ -15,7 +15,7 @@ You need to install the following Python libraries:
 - `python-docx`
 
 You can install the required libraries using pip:
-`bash pip install matplotlib lxml python-docx`
+`pip install matplotlib lxml python-docx`
 
 ## Usage
 Run the script with the following command:

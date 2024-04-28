@@ -44,3 +44,8 @@ Contributions are welcome! If you have suggestions, improvements, or bug fixes, 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Disclaimer
+
+This script is intended for use with Nessus vulnerability assessment files. Nessus is a proprietary vulnerability scanner developed by Tenable, Inc. and is not open source. We thank Tenable for their tool and support.
+

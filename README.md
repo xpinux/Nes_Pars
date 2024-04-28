@@ -23,10 +23,10 @@ Run the script with the following command:
 `python nessus_report_generator.py <file_path> <option>`
 
 Replace <file_path> with the path to the Nessus XML file to parse, and <option> with one of the following report options:
-1.'1': Full report
-2.'2': Overview
-3.'3': Per host
-4.'4': Remediations
+- '1': Full report
+- '2': Overview
+- '3': Per host
+- '4': Remediations
 
 Example:
 `python nessus_report_generator.py sample.nessus 1`
@@ -42,9 +42,8 @@ For large Nessus XML files, the report generation process may take some time. Be
 Structure
 nessus_report_generator.py: The main Python script for generating the report.
 sample.nessus: Example Nessus XML file for testing purposes.
-LICENSE: License file for the repository.
-README.md: Readme file providing instructions and information about the script.
-Contributing
+
+## Contributing
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, please open an issue or create a pull request.
 
 ## License

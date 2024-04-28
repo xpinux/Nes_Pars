@@ -38,9 +38,6 @@ The script will create a Word document named Nessus_Report_<option>.docx in the 
 The pie chart and any temporary files created during the report generation process will be automatically removed.
 It's recommended to review and clean the input Nessus XML file before generating the report to ensure accurate results.
 For large Nessus XML files, the report generation process may take some time. Be patient while the script processes the data.
-Structure
-nessus_report_generator.py: The main Python script for generating the report.
-sample.nessus: Example Nessus XML file for testing purposes.
 
 ## Contributing
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, please open an issue or create a pull request.
